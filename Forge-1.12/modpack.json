@@ -1,0 +1,59 @@
+{
+    "synopsis": "FTB Ultimate Reloaded is one of our lighter 1.12.2 modpacks based around the original Ultimate that was released on Minecraft 1.4.7 over 5 years ago.",
+    "description": "FTB Ultimate Reloaded is one of our lighter 1.12.2 modpacks based around the original Ultimate that was released on Minecraft 1.4.7 over 5 years ago. Ultimate was one of FTBs largest and popular modpacks of its time and players spent months making large factories, farms, railcraft rail networks and getting their feet wet with magic in Thaumcraft. Fast forward to 2019 and the FTB Team has remastered Ultimate in a 1.12.2 modpack named Ultimate Reloaded.  \n  \nThree key components went into the development of this modpack; stay close to the theme and mod set of Ultimate 1.4, performance and player experience.  \n  \n\\-Ultimate 1.4 Theme and Modset have been kept as close as possible using the latest version of mods available on the 1.12.2 version of Minecraft. Some mods have been replaced with similar content adding mods. Some things are different with mods; some things have been tweaked to feel more like the original Ultimate but not all. This is not a recipe for recipe, or method for method match. If you want that then go download and play the original FTB Ultimate.  \n  \n\\-Performance is even better than it was in the original Ultimate due to the huge optimizations in Minecraft as well as mods. Clients are able to be launched with 3GB instead of the standard 4GB as found across most modern popular modpacks, however for the best experience we still recommend assigning at least 4GB to your client. Servers are able to accommodate more players using less RAM as well. In our extensive testing with a dozen or more players online together we hovered around 2.5 GB of RAM usage. (This will vary greatly depending on play style and server forced chunk loading).  \n  \n\\-Player Experience was one of the most important pieces of this pack, as we wanted that nostalgia feel when playing. And most will say we have achieved that. Say goodbye to the one block does it all method of todays mods, and the large amounts of power you have to generate to reach mid-game. However it is challenging to set up complex automation systems, but very rewarding once you do! With only IC2 teleporters available we found a massive use of trains and rail networks to get around in multiplayer, as well as nether hubs. FTBU TP commands have been disabled by default for players but can be changed by a server OP if wanted.  \nWe hope you enjoy playing FTB Ultimate Reloaded as much as we enjoyed the blast from the past making and testing this pack.  \n  \nIssue Tracker: https://github.com/FTBTeam/FTB-Ultimate-Reloaded/issues  \n  \nServer Files: https://www.feed-the-beast.com/projects/ftb-ultimate-reloaded/files  \n  \n\\*Mystcraft was removed during testing for performance and balance reasons. It has been tested and does work with the pack without and crashes and the config set was left in. You can safely add this mod to the pack if you wish, just know you may have some performance issues client/server side. Please note you have added the mod when submitting issues to us.",
+    "art": [
+        {
+            "width": 1024,
+            "height": 1024,
+            "compressed": true,
+            "url": "https://apps.modpacks.ch/modpacks/art/5/ultimate-reloaded.png",
+            "sha1": "dbc8466cf3f887d7df45c336ce086af84306e662",
+            "size": 780984,
+            "id": 77,
+            "type": "square",
+            "updated": 1589476777
+        }
+    ],
+    "authors": [
+        {
+            "website": "",
+            "id": 8,
+            "name": "FTB Team",
+            "type": "team",
+            "updated": 1585874706
+        }
+    ],
+    "versions": [
+        {
+            "specs": {
+                "id": 36,
+                "minimum": 4096,
+                "recommended": 6124
+            },
+            "id": 38,
+            "name": "1.9.0",
+            "type": "Release",
+            "updated": 1585743524
+        }
+    ],
+    "installs": 22659,
+    "plays": 149614,
+    "featured": false,
+    "refreshed": 1591897994,
+    "notification": "",
+    "status": "success",
+    "id": 36,
+    "name": "FTB Ultimate Reloaded",
+    "type": "release",
+    "updated": 1585743524,
+    "tags": [
+        {
+            "id": 6,
+            "name": "1.12.2"
+        },
+        {
+            "id": 9,
+            "name": "FTB"
+        }
+    ]
+}
